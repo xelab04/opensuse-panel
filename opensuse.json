@@ -1,0 +1,135 @@
+{
+  "data": [
+    {
+      "key": "Distributions",
+      "content": [
+        {
+          "name": "openSUSE Leap",
+          "description": "Fixed release yada yada",
+          "url": "https://get.opensuse.org/leap/"
+        },
+        {
+          "name": "openSUSE Tumbleweed",
+          "description": "Rolling release distro",
+          "url": "https://get.opensuse.org/tumbleweed/"
+        },
+        {
+          "name": "openSUSE Leap Micro",
+          "description": "Micro distro for containers built on Leap",
+          "url": "https://get.opensuse.org/leapmicro/"
+        },
+        {
+          "name": "openSUSE MicroOS",
+          "description": "Micro distro for containers built on Tumbleweed",
+          "url": "https://get.opensuse.org/microos/"
+        }
+      ]
+    },
+    {
+      "key": "Learning",
+      "content": [
+        {
+          "name": "Docs",
+          "description": "",
+          "url": "https://doc.opensuse.org/"
+        },
+        {
+          "name": "Wiki",
+          "description": "",
+          "url": "https://en.opensuse.org/Main_Page"
+        }
+      ]
+    },
+
+    {
+      "key": "Contributing",
+      "content": [
+        {
+          "name": "RSYNC",
+          "description": "",
+          "url": "https://rsync.opensuse.org"
+        },
+        {
+          "name": "OpenQA",
+          "description": "",
+          "url": "https://openqa.opensuse.org"
+        },
+        {
+          "name": "Maintainers",
+          "description": "",
+          "url": "https://maintainer.opensuse.org/#"
+        },
+        {
+          "name": "Login",
+          "description": "",
+          "url": "https://id.opensuse.org/"
+        },
+        {
+          "name": "Bugzilla",
+          "description": "",
+          "url": "https://bugzilla.opensuse.org/"
+        },
+        {
+          "name": "Code.O.O",
+          "description": "",
+          "url": "https://code.opensuse.org"
+        },
+        {
+          "name": "Build.O.O",
+          "description": "",
+          "url": "https://build.opensuse.org/"
+        }
+      ]
+    },
+    {
+      "key": "Socials",
+      "content": [
+        {
+          "name": "Matrix",
+          "description": "Official Matrix server for openSUSE project",
+          "url": "https://matrix.opensue.org/"
+        },
+        {
+          "name": "openSUSE News",
+          "description": "Official Telegram server for project news",
+          "url": "https://telegram.me/openSUSENews"
+        },
+        {
+          "name": "Jitsi Meet",
+          "description": "",
+          "url": "https://meet.opensuse.org/"
+        },
+        {
+          "name": "Mailing Lists",
+          "description": "",
+          "url": "https://lists.opensuse.org/archives/"
+        },
+        {
+          "name": "Reddit",
+          "description": "",
+          "url": "https://www.reddit.com/r/openSUSE/"
+        },
+        {
+          "name": "Forums",
+          "description": "",
+          "url": "https://forums.opensuse.org/"
+        }
+      ]
+    }
+  ],
+  "ignore" : {
+    "key": "Forums",
+    "content": [
+      {
+        "name": "Reddit",
+        "description": "",
+        "url": "https://www.reddit.com/r/openSUSE/"
+      },
+      {
+        "name": "Forums",
+        "description": "",
+        "url": "https://forums.opensuse.org/"
+      }
+    ]
+  }
+}
